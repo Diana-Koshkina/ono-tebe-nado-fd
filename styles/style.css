@@ -34,7 +34,7 @@
 .address {
   max-width: 240px;
   justify-self: end;
-  line-height: 24.3px;
+  line-height: 135%;
   padding-right: 33px;
   font-style: normal;
 }
